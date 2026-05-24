@@ -6,16 +6,16 @@ A robust database application designed to streamline the recruitment and employe
 
 The system architecture enforces a specific set of operational workflows to govern the recruitment process:
 
-* [cite_start]**Single Application Policy:** An applicant is restricted to only one Job Vacany application[cite: 2]. [cite_start]Meaning that an applicant can not re-apply for the same Job Vacancy multiple times[cite: 3].
-* [cite_start]**Strict Application Deadlines:** A Job Vacancy closes after due date[cite: 4]. [cite_start]Meaning that after the vacancy date passes, applicants will not be able to apply anymore the respective job vacancies[cite: 5].
-* [cite_start]**Digital Salary Negotiations:** HR Submits Salary offer and then applicants can counter as well[cite: 6]. [cite_start]This speeds up the process of negotiation by allowing applicants to digitally counter if not satisfied with an offer or reject the offer flat out[cite: 7].
-* [cite_start]**Automated Onboarding:** A Successful Applicant becomes Employee automatically[cite: 8]. [cite_start]After job offer is accepted, the applicant gets on board to becoming an employee[cite: 9].
+* **Single Application Policy:** An applicant is restricted to only one Job Vacany application[cite: 2]. [cite_start]Meaning that an applicant can not re-apply for the same Job Vacancy multiple times[cite: 3].
+* **Strict Application Deadlines:** A Job Vacancy closes after due date[cite: 4]. [cite_start]Meaning that after the vacancy date passes, applicants will not be able to apply anymore the respective job vacancies[cite: 5].
+* **Digital Salary Negotiations:** HR Submits Salary offer and then applicants can counter as well[cite: 6]. [cite_start]This speeds up the process of negotiation by allowing applicants to digitally counter if not satisfied with an offer or reject the offer flat out[cite: 7].
+* **Automated Onboarding:** A Successful Applicant becomes Employee automatically[cite: 8]. [cite_start]After job offer is accepted, the applicant gets on board to becoming an employee[cite: 9].
 
 ## 📂 Repository Structure
 
 * `/backend` — Core database architecture, T-SQL scripts, schemas, and relational management.
 * `/middleTier` — Middle-tier services and Java-based APIs handling business logic and bridging the database with front-end interfaces.
-* [cite_start]`Business Rules.pdf` — Source documentation outlining the system's operational constraints[cite: 1].
+* `Business Rules.pdf` — Source documentation outlining the system's operational constraints[cite: 1].
 * `.gitignore` — Standard Git ignore configurations for the development environment.
 
 ## 🛠 Tech Stack
@@ -24,7 +24,7 @@ The system architecture enforces a specific set of operational workflows to gove
 * **Middle Tier:** API and service layer architecture (Java).
 * **Version Control:** Git & GitHub.
 
-## 👨‍💻 Developer
+## 👨‍💻 Developers
 
 Developed and maintained by Tupopila Kadhila & Slysken Kakuva. 
 
